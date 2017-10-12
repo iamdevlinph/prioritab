@@ -2,8 +2,11 @@
 - [ ] Add a "sync" feature
 - [ ] Add quick links
 
+# Target Look
+![Look](look.png)
+
 # Prioritab
-A new tab page that emphasizes setting priorities. 
+A new tab page that emphasizes setting priorities.
 
 Set your priorities for the day, week and month, and be reminded about them every time you open a new tab!
 
