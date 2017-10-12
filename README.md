@@ -1,10 +1,19 @@
-# Purpose of Fork
+# Todos
 - [ ] Add a "sync" feature
 - [ ] Add quick links
+- [ ] UI changes
 
 # Target Look
 ![Look](look.png)
 
+## My Mini FAQ
+### Will I publish this?
+I will have to ask the original creator. Not yet done anyway.
+
+###
+
+# Original Readme
+---
 # Prioritab
 A new tab page that emphasizes setting priorities.
 
