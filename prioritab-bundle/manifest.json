@@ -1,9 +1,9 @@
 {
-  "name": "Prioritab",
-  "description": "A new tab page to remind you of your priorities",
-  "version": "2.0.0",
+  "name": "Prioritab Extended",
+  "description": "A new tab page to remind you of your priorities. With quick links and sync feature",
+  "version": "2.0.0-fork-iamdevlinph",
   "chrome_url_overrides": {
-    "newtab": "prioritab.html"
+    "newtab": "index.html"
   },
   "icons": {
     "16": "prioritab_logo_v2_16.png",
