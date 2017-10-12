@@ -1,5 +1,5 @@
 # Todos
-- [ ] Add a "sync" feature
+- [ ] Add a "sync" feature for Opera
 - [ ] Add quick links
 - [ ] UI changes
 
