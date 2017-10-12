@@ -1,3 +1,7 @@
+# Purpose of Fork
+- [ ] Add a "sync" feature
+- [ ] Add quick links
+
 # Prioritab
 A new tab page that emphasizes setting priorities. 
 
