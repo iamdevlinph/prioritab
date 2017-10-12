@@ -3,3 +3,4 @@
 *.crx
 *.pem
 prioritab_screenshot_*.png
+.sass-cache
