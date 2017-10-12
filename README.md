@@ -11,7 +11,7 @@
 I will have to ask the original creator. Not yet done anyway.
 
 ### Why prioritab?
-I like the UI. It's just that it lacks what I like to have: quick links and sync feature.
+I like the UI. It's just that it lacks what I like to have: quick links and sync feature (in Opera).
 
 ###
 
