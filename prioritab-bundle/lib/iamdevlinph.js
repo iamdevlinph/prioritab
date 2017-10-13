@@ -6,6 +6,6 @@ $(function () {
   $quickLinksToggle.click(function () {
     $quickLinksList.toggle("slide", {
       direction: "left"
-    }, 1000);
+    }, 700);
   });
 });
