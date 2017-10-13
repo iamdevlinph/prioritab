@@ -4,7 +4,8 @@
   width: 150px;
   position: absolute;
   left: 0;
-  padding-left: 10px; }
+  padding-left: 10px;
+  animation: fadeInRight 1s both; }
   #quick-links--add {
     display: inline-block;
     background: #eeeeee;
